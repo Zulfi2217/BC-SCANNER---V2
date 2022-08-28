@@ -1,6 +1,6 @@
 
 @echo off 
-title Brother's Community Scanner - [%date%]
+title Brother's Corporation Scanner - [%date%]
 mode 70,20
 chcp 65001>nul 
 cls
@@ -38,7 +38,7 @@ if %slct%==7 goto regscan
 
 :Equipe
 @echo off 
-title Iris Scanner - [%date%]
+title Brother's Corporation Scanner - [%date%]
 mode 70,20
 chcp 65001>nul 
 cls
